@@ -33,5 +33,4 @@ Where I live: Seoul, Korea <br>
 name: SUJIN KIM <br>
 age: 25<br>
 personality : positive<br>
-univ. : hufs<br>
 major : business administration<br>
