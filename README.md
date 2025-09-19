@@ -1,6 +1,8 @@
+<!--
+
 ## hello everyone 👋
 
-<!--
+
 **whatimeisitnow/whatimeisitnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +23,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 # 👋 Hi, I’m **SUJIN**  
-<img src="h">
+<img src="ham.jpg"><br>
+
 문제 해결 및 효율적인 코드 작성에 관심이 많은 학생입니다.
 </div>
 
